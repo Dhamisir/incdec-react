@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/incdec-react/static/css/main.e7468afd.css",
+    "main.js": "/incdec-react/static/js/main.ac861d5f.js",
+    "index.html": "/incdec-react/index.html",
+    "main.e7468afd.css.map": "/incdec-react/static/css/main.e7468afd.css.map",
+    "main.ac861d5f.js.map": "/incdec-react/static/js/main.ac861d5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7468afd.css",
+    "static/js/main.ac861d5f.js"
+  ]
+}
